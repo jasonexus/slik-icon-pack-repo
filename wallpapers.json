@@ -92,6 +92,15 @@
 			"downloadable": "true"
 		},
 		{
+			"name": "Architecure",
+			"author": "Insightful Technologies",
+			"url": "http://i.imgur.com/XkpCVQt.jpg",
+			"dimensions": "604 x 340",
+			"thumbnail":"http://i.imgur.com/XkpCVQt.jpg",
+			"downloadable": "true",
+			"copyright": "Copyright ¸ 2016 Insightful Technologies. All rights reserved."
+		},
+		{
 			"name": "Sunset",
 			"author": "Insightful Technologies",
 			"url": "http://i.imgur.com/eAU2KQa.png",
@@ -99,6 +108,30 @@
 			"thumbnail":"http://i.imgur.com/Sj6wBz8.png",
 			"downloadable": "true",
 			"copyright": "Copyright ¸ 2016 Insightful Technologies. All rights reserved."
+		},
+		{
+			"name": "Lazy Lake",
+			"author": "Royalty Free",
+			"url": "http://i.imgur.com/rduZlpP.jpg",
+			"dimensions": "480 x 640",
+			"thumbnail":"http://i.imgur.com/rduZlpP.jpg",
+			"downloadable": "true"
+		},
+		{
+			"name": "City Life",
+			"author": "Royalty Free",
+			"url": "http://i.imgur.com/zmx61Gw.jpg",
+			"dimensions": "480 x 640",
+			"thumbnail":"http://i.imgur.com/zmx61Gw.jpg",
+			"downloadable": "true"
+		},
+		{
+			"name": "Hoops",
+			"author": "Royalty Free",
+			"url": "http://i.imgur.com/K6yjbTL.jpg",
+			"dimensions": "5188 x 3459",
+			"thumbnail":"http://i.imgur.com/5Vc1Mo6.jpg",
+			"downloadable": "true"
 		}
 
 	]
