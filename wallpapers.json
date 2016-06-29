@@ -92,13 +92,12 @@
 			"downloadable": "true"
 		},
 		{
-			"name": "Architecure",
-			"author": "Insightful Technologies",
+			"name": "Architecture",
+			"author": "Royalty Free",
 			"url": "http://i.imgur.com/XkpCVQt.jpg",
 			"dimensions": "604 x 340",
 			"thumbnail":"http://i.imgur.com/XkpCVQt.jpg",
-			"downloadable": "true",
-			"copyright": "Copyright ¸ 2016 Insightful Technologies. All rights reserved."
+			"downloadable": "true"
 		},
 		{
 			"name": "Sunset",
@@ -131,6 +130,22 @@
 			"url": "http://i.imgur.com/K6yjbTL.jpg",
 			"dimensions": "5188 x 3459",
 			"thumbnail":"http://i.imgur.com/5Vc1Mo6.jpg",
+			"downloadable": "true"
+		},
+		{
+			"name": "Setting Sun",
+			"author": "Royalty Free",
+			"url": "http://i.imgur.com/wsA6qRB.jpg",
+			"dimensions": "1920 x 1280",
+			"thumbnail":"http://i.imgur.com/BKjKqSk.jpg",
+			"downloadable": "true"
+		},
+		{
+			"name": "Material Shades Shift",
+			"author": "Royalty Free",
+			"url": "http://i.imgur.com/gRFGI4S.jpg",
+			"dimensions": "1",
+			"thumbnail":"http://i.imgur.com/7paDksZ.jpg",
 			"downloadable": "true"
 		}
 
