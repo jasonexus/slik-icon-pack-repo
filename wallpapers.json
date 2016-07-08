@@ -142,12 +142,27 @@
 		},
 		{
 			"name": "Material Shades Shift",
-			"author": "Royalty Free",
+			"author": "Insightful Technologies",
 			"url": "http://i.imgur.com/gRFGI4S.jpg",
 			"dimensions": "1",
 			"thumbnail":"http://i.imgur.com/7paDksZ.jpg",
 			"downloadable": "true"
+		},
+		{
+			"name": " The Dark Side & The Light",
+			"author": "Insightful Technologies",
+			"url": "http://i.imgur.com/V12bsFx.png",
+			"dimensions": "1",
+			"thumbnail":"http://i.imgur.com/vQJFKGV.png",
+			"downloadable": "true"
+		},
+		{
+			"name": " Kylo Ren",
+			"author": "Insightful Technologies",
+			"url": "http://i.imgur.com/TAgKjtR.png",
+			"dimensions": "1",
+			"thumbnail":"http://i.imgur.com/LYwn1Kh.png",
+			"downloadable": "true"
 		}
-
 	]
 }
