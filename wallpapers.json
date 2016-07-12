@@ -94,8 +94,8 @@
 		{
 			"name": "Architecture",
 			"author": "Royalty Free",
-			"url": "http://i.imgur.com/XkpCVQt.jpg",
-			"dimensions": "604 x 340",
+			"url": "http://i.imgur.com/mWMGcut.jpg",
+			"dimensions": "1920 x 1440",
 			"thumbnail":"http://i.imgur.com/XkpCVQt.jpg",
 			"downloadable": "true"
 		},
@@ -111,8 +111,8 @@
 		{
 			"name": "Lazy Lake",
 			"author": "Royalty Free",
-			"url": "http://i.imgur.com/rduZlpP.jpg",
-			"dimensions": "480 x 640",
+			"url": "http://i.imgur.com/Iiz5Afp.jpg",
+			"dimensions": "1920 x 1080",
 			"thumbnail":"http://i.imgur.com/rduZlpP.jpg",
 			"downloadable": "true"
 		},
@@ -144,7 +144,7 @@
 			"name": "Material Shades Shift",
 			"author": "Insightful Technologies",
 			"url": "http://i.imgur.com/gRFGI4S.jpg",
-			"dimensions": "1",
+			"dimensions": "1200 x 1920",
 			"thumbnail":"http://i.imgur.com/7paDksZ.jpg",
 			"downloadable": "true"
 		},
@@ -152,7 +152,7 @@
 			"name": " The Dark Side & The Light",
 			"author": "Insightful Technologies",
 			"url": "http://i.imgur.com/V12bsFx.png",
-			"dimensions": "1",
+			"dimensions": "1440 x 2560",
 			"thumbnail":"http://i.imgur.com/vQJFKGV.png",
 			"downloadable": "true"
 		},
@@ -160,8 +160,40 @@
 			"name": " Kylo Ren",
 			"author": "Insightful Technologies",
 			"url": "http://i.imgur.com/TAgKjtR.png",
-			"dimensions": "1",
+			"dimensions": "1440 x 2560",
 			"thumbnail":"http://i.imgur.com/LYwn1Kh.png",
+			"downloadable": "true"
+		},
+		{
+			"name": "Nebula",
+			"author": "Royalty Free",
+			"url": "http://i.imgur.com/AKF6PWT.jpg",
+			"dimensions": "3300 x 2358",
+			"thumbnail":"http://i.imgur.com/wltMjWa.jpg",
+			"downloadable": "true"
+		},
+		{
+			"name": "Daze",
+			"author": "Royalty Free",
+			"url": "http://i.imgur.com/Ual2UkR.jpg",
+			"dimensions": "1920 x 1080",
+			"thumbnail":"http://i.imgur.com/ukEaADn.jpg",
+			"downloadable": "true"
+		},
+		{
+			"name": "Drops",
+			"author": "Royalty Free",
+			"url": "http://i.imgur.com/50ds0mX.jpg",
+			"dimensions": "1920 x 1080",
+			"thumbnail":"http://i.imgur.com/vNk0tU5.jpg",
+			"downloadable": "true"
+		},
+		{
+			"name": "Pitter, Patter",
+			"author": "Royalty Free",
+			"url": "http://i.imgur.com/q8c2XKk.jpg",
+			"dimensions": "1920 x 1080",
+			"thumbnail":"http://i.imgur.com/glR9pos.jpg",
 			"downloadable": "true"
 		}
 	]
