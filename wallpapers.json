@@ -149,7 +149,7 @@
 			"downloadable": "true"
 		},
 		{
-			"name": " The Dark Side & The Light",
+			"name": "The Dark Side & The Light",
 			"author": "Insightful Technologies",
 			"url": "http://i.imgur.com/V12bsFx.png",
 			"dimensions": "1440 x 2560",
@@ -157,7 +157,7 @@
 			"downloadable": "true"
 		},
 		{
-			"name": " Kylo Ren",
+			"name": "Kylo Ren",
 			"author": "Insightful Technologies",
 			"url": "http://i.imgur.com/TAgKjtR.png",
 			"dimensions": "1440 x 2560",
@@ -194,6 +194,14 @@
 			"url": "http://i.imgur.com/q8c2XKk.jpg",
 			"dimensions": "1920 x 1080",
 			"thumbnail":"http://i.imgur.com/glR9pos.jpg",
+			"downloadable": "true"
+		},
+		{
+			"name": "Bulbs",
+			"author": "Insightful Technologies",
+			"url": "http://i.imgur.com/Fleb773.png",
+			"dimensions": "1920 x 1200",
+			"thumbnail":"http://i.imgur.com/umGZGG9.png",
 			"downloadable": "true"
 		}
 	]
