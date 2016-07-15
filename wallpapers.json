@@ -203,6 +203,14 @@
 			"dimensions": "1920 x 1200",
 			"thumbnail":"http://i.imgur.com/umGZGG9.png",
 			"downloadable": "true"
+		},
+		{
+			"name": "Meteor Shower",
+			"author": "Insightful Technologies",
+			"url": "http://i.imgur.com/8Jib40P.png",
+			"dimensions": "1980 x 1530",
+			"thumbnail":"http://i.imgur.com/JrKGiak.png",
+			"downloadable": "true"
 		}
 	]
 }
