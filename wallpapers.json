@@ -19,9 +19,9 @@
 		{
 			"name": "X",
 			"author": "Insightful Technologies",
-			"url": "http://i.imgur.com/4iPrZtx.png",
+			"url": "http://i.imgur.com/AunV9aG.png",
 			"dimensions": "1200 x 1920",
-			"thumbnail":"http://i.imgur.com/1l7Huu4.png",
+			"thumbnail":"http://i.imgur.com/sNlk451.png",
 			"copyright": "Copyright ¸ 2016 Insightful Technologies. All rights reserved."
 		},
 		{
@@ -35,9 +35,9 @@
 		{
 			"name": "Material Shades",
 			"author": "Insightful Technologies",
-			"url": "http://i.imgur.com/qI83tOa.png",
+			"url": "http://i.imgur.com/eAMXUbe.png",
 			"dimensions": "1200 x 1920",
-			"thumbnail":"http://i.imgur.com/4qcaZEZ.png",
+			"thumbnail":"http://i.imgur.com/9eoFXU0.png",
 			"copyright": "Copyright ¸ 2016 Insightful Technologies. All rights reserved."
 		},
 		{
@@ -143,9 +143,9 @@
 		{
 			"name": "Material Shades Shift",
 			"author": "Insightful Technologies",
-			"url": "http://i.imgur.com/gRFGI4S.jpg",
+			"url": "http://i.imgur.com/dYhTleU.png",
 			"dimensions": "1200 x 1920",
-			"thumbnail":"http://i.imgur.com/7paDksZ.jpg",
+			"thumbnail":"http://i.imgur.com/4hZE4VR.png",
 			"downloadable": "true"
 		},
 		{
@@ -216,7 +216,7 @@
 			"name": "Spidey",
 			"author": "Insightful Technologies",
 			"url": "http://i.imgur.com/ACrMXk9.png",
-			"dimensions": "1920 x 1200",
+			"dimensions": "1200 x 1920",
 			"thumbnail":"http://i.imgur.com/ut02Rog.png",
 			"downloadable": "true"
 		},
@@ -224,7 +224,7 @@
 			"name": "Stark",
 			"author": "Insightful Technologies",
 			"url": "http://i.imgur.com/EFe4MmX.png",
-			"dimensions": "1920 x 1200",
+			"dimensions": "1200 x 1920",
 			"thumbnail":"http://i.imgur.com/EFe4MmX.png",
 			"downloadable": "true"
 		},
@@ -232,8 +232,16 @@
 			"name": "Wade Wilson",
 			"author": "Insightful Technologies",
 			"url": "http://i.imgur.com/IqRdJFk.png",
-			"dimensions": "1920 x 1200",
+			"dimensions": "1200 x 1920",
 			"thumbnail":"http://i.imgur.com/IqRdJFk.png",
+			"downloadable": "true"
+		},
+		{
+			"name": "Cube Matrix",
+			"author": "Insightful Technologies",
+			"url": "http://i.imgur.com/CewB9Lv.png",
+			"dimensions": "1920 x 1200",
+			"thumbnail":"http://i.imgur.com/X1RrduX.png",
 			"downloadable": "true"
 		}
 
